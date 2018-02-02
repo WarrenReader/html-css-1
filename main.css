@@ -1,0 +1,232 @@
+/*----- Section Styling & Section Wide Styling-----*/
+header, .section-2, .section-3, .section-4, .section-5{
+    background:green;
+    width: 100vw;
+    height: 45px;
+    display: block;
+    margin-bottom:8px;
+    padding:5px 10px;
+}
+
+.section-4 {
+    height: 150px;
+}
+
+.section-5 {
+    height: 300px;
+}
+
+.red-float {
+    background:red;
+    float:left;
+}
+
+.blue-float {
+    background:blue;
+    float: left;
+}
+
+.blue-inline {
+    background: blue;
+    float: left; 
+}
+
+.yellow-float {
+    background: yellow;
+    float: left; 
+}
+
+/*-------- Section 1 ------*/
+
+.logo {
+    width: 70px;
+    height: 40px;
+    float: left;
+    display:inline-block;
+}
+
+nav {
+    width: 430px;
+    height: 40px;
+    display: block;
+    margin:auto;
+    background:red;
+}
+
+.sign-in {
+    width: 80px;
+    height: 40px;
+    margin-right: 20px;
+    float: right;
+    display:inline-block;
+}
+
+.s1-bluebox1 {
+    width: 25px;
+    height: 20px;
+    margin:10px 0 0 5px;
+}
+
+.s1-bluebox2 {
+    width: 33px;
+    height: 20px;
+    margin:10px 0 0 3px;
+}
+
+.s1-bluebox-medium {
+    width: 65px;
+    height: 25px;
+    margin:7px 0 0 5px;
+}
+
+.s1-bluebox-medium2 {
+    width: 82px;
+    height: 25px;
+    margin:7px 0 0 15px;
+}
+
+.s1-bluebox-medium3 {
+    width: 45px;
+    height: 25px;
+    margin:7px 0 0 15px;
+}
+
+.s1-bluebox-right1 {
+    width: 25px;
+    height: 30px;
+    margin:5px 0 0 5px;
+}
+
+.s1-bluebox-right2 {
+    width: 40px;
+    height: 30px;
+    margin:5px 0 0 5px;
+}
+
+
+/* ----- Section 2 ----- */
+
+.section2-container {
+    width: 550px;
+    height: 100%;
+    display:block;
+    margin:auto;
+}
+
+.section2-small {
+    width: 40px;
+    height: 45px;
+    margin: 0 0 0 0;
+}
+
+.section2-small2 {
+    width: 40px;
+    height: 45px;
+    margin:0 0 0 10px;
+}
+
+.section2-small-medium {
+    width: 50px;
+    height: 45px;
+    margin:0 0 0 10px;
+}
+
+.section2-medium {
+    width: 70px;
+    height: 45px;
+    margin:0 0 0 10px;
+}
+
+.section2-large{
+    width: 150px;
+    height: 45px;
+    margin:0 0 0 5px;
+}
+
+
+/*----- Section 3 ------*/
+
+.section3-container {
+    width: 300px;
+    height: 100%;
+    display:block;
+    margin:auto;
+}
+
+.horizontal-1 {
+    width: 300px;
+    height: 25px;
+    display: inline-block;
+    background:red;
+}
+
+.horizontal-2 {
+    width: 300px;
+    height: 15px;
+    display: inline-block;
+    background:red;
+}
+
+/*------ Section 4------*/
+
+.section4-container {
+    width: 750px;
+    height: 100%;
+    display:block;
+    margin:auto;
+}
+
+.block-1 {
+    width: 320px;
+    height: 140px;
+    float: left;
+}
+
+.block-2 {
+    width: 320px;
+    height: 140px;
+    float: left;
+    margin: 0 0 0 75px;
+}
+
+.s3-bluebox-top {
+    width: 100px;
+    height: 30px;
+    margin:5px 0 5px 115px;
+}
+
+.s3-bluebox-middle {
+    width: 275px;
+    height: 50px;
+    margin:5px 0 5px 20px;
+}
+
+.s3-bluebox-bottom-left {
+    width: 150px;
+    height: 30px;
+    margin:5px 0 0 90px;
+}
+
+.s3-bluebox-bottom-right {
+    width: 220px;
+    height: 30px;
+    margin:5px 0 0 50px;
+}
+
+.yellow-1 {
+    width: 50px;
+    height: 20px;
+    margin:6px 0 0 8px;
+}
+
+.yellow-2 {
+    width: 75px;
+    height: 20px;
+    margin:6px 0 0 8px; 
+}
+
+.yellow-3 {
+    width: 145px;
+    height: 20px;
+    margin:6px 0 0 8px;
+}
